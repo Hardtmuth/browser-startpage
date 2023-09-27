@@ -29,10 +29,10 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "studies",
+      name: "studie",
       background_url: "src/img/banners/cbg-6.gif",
       categories: [{
-        name: "Hexly",
+        name: "hexly",
         links: [
           {
             name: "mattermost",
@@ -60,24 +60,48 @@ const default_config = {
           },
         ],
       }, {
-        name: "Games",
+        name: "tools",
         links: [
           {
-            name: "chess",
-            url: "https://www.chess.com/home",
-            icon: "chess-queen-filled",
+            name: "github",
+            url: "https://github.com/",
+            icon: "brand-github",
             icon_color: "#a9b665",
           },
           {
-            name: "monkeytype",
-            url: "https://monkeytype.com/",
-            icon: "keyboard",
+            name: "replit",
+            url: "https://repl.it/",
+            icon: "brand-leetcode",
             icon_color: "#e78a4e",
           },
           {
-            name: "tetris",
-            url: "https://tetris.com/",
-            icon: "brand-apple-arcade",
+            name: "codewars",
+            url: "https://www.codewars.com/dashboard/",
+            icon: "brand-codecov",
+            icon_color: "#ea6962",
+          },
+          {
+            name: "rebrain",
+            url: "https://rebrainme.com/",
+            icon: "terminal-2",
+            icon_color: "#e78a4e",
+          },
+          {
+            name: "stepik",
+            url: "https://stepik.org/",
+            icon: "book-2",
+            icon_color: "#7daea3",
+          },
+          {
+            name: "hack-the-box",
+            url: "https://academy.hackthebox.com/dashboard",
+            icon: "box",
+            icon_color: "#a9b665",
+          },
+          {
+            name: "reddit",
+            url: "https://www.reddit.com",
+            icon: "brand-reddit",
             icon_color: "#ea6962",
           },
         ],
