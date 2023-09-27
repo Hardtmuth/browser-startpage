@@ -7,7 +7,7 @@ const default_config = {
     scale: "C",
   },
   clock: {
-    format: "h:i p",
+    format: "h:i",
     iconColor: "#ea6962",
   },
   search: {
