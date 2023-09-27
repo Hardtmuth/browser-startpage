@@ -29,40 +29,34 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "chi ll",
-      background_url: "src/img/banners/cbg-2.gif",
+      name: "studies",
+      background_url: "src/img/banners/cbg-6.gif",
       categories: [{
-        name: "Social Media",
+        name: "Hexly",
         links: [
           {
-            name: "whatsapp",
-            url: "https://web.whatsapp.com/",
-            icon: "brand-whatsapp",
+            name: "mattermost",
+            url: "https://teams.hexly.ru/",
+            icon: "brand-slack",
             icon_color: "#a9b665",
           },
           {
-            name: "twitter",
-            url: "https://twitter.com/home",
-            icon: "brand-twitter-filled",
+            name: "LMS",
+            url: "https://lms.hexly.ru/",
+            icon: "book",
             icon_color: "#7daea3",
           },
           {
-            name: "reddit",
-            url: "https://www.reddit.com/",
-            icon: "brand-reddit",
+            name: "hexly - notion",
+            url: "https://hexly.notion.site/8185f56ad42848848f9ef2fa92fd07e0/",
+            icon: "brand-notion",
             icon_color: "#e78a4e",
           },
           {
-            name: "youtube",
-            url: "https://www.youtube.com/",
-            icon: "brand-youtube-filled",
+            name: "hexlet",
+            url: "https://ru.hexlet.io/my",
+            icon: "campfire",
             icon_color: "#ea6962",
-          },
-          {
-            name: "twitch",
-            url: "https://www.twitch.tv/",
-            icon: "brand-twitch",
-            icon_color: "#d3869b",
           },
         ],
       }, {
