@@ -89,7 +89,7 @@ class Tabs extends Component {
       status-bar {
           bottom: -70px;
           height: 32px;
-          background: #282828;
+          background: #1b2932;
           border-radius: 4px;
           box-shadow: 0 10px 20px rgba(0, 0, 0, .25);
       }
@@ -114,7 +114,7 @@ class Tabs extends Component {
           bottom: 0;
           margin: auto;
           box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
-          background: #282828;
+          background: #1b2932;
       }
 
       .categories {
@@ -131,7 +131,7 @@ class Tabs extends Component {
           width: 100%;
           height: 100%;
           right: 100%;
-          background: #282828 url("../img/bg-1.gif") repeat left;
+          background: #1b2932 url("../img/bg-1.gif") repeat left;
 	        transition: all .6s;
 	        # animation: scroll 25s ease-in-out infinite;
       }
@@ -199,7 +199,7 @@ class Tabs extends Component {
           right: 0;
           width: 70%;
           height: 100%;
-          background: #282828;
+          background: #1b2932;
           padding: 5%;
           flex-wrap: wrap;
       }
@@ -216,7 +216,7 @@ class Tabs extends Component {
           display: inline-flex;
           align-items: center;
           padding: .4em .7em;
-          background: #32302f;
+          background: #24333d;
           box-shadow: 0 4px rgba(50, 48, 47, 0.5), 0 5px 10px rgb(0 0 0 / 20%);
           border-radius: 2px;
           margin-bottom: .7em;
