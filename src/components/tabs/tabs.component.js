@@ -252,7 +252,7 @@ class Tabs extends Component {
           background: linear-gradient(to top, rgb(50 48 47 / 90%), transparent);
           color: var(--flavour);
           letter-spacing: 1px;
-          font: 500 30px 'Nunito', sans-serif;
+          font: 500 30px 'Roboto', sans-serif;
           text-align: center;
           flex-wrap: wrap;
           word-break: break-all;
@@ -274,7 +274,7 @@ class Tabs extends Component {
           font-weight: 600;
           letter-spacing: 1px;
           text-transform: uppercase;
-          font-family: 'Raleway', sans-serif;
+          font-family: 'Roboto', sans-serif;
       }
 
       .categories .link-icon {
