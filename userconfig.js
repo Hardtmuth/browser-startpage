@@ -38,7 +38,7 @@ const default_config = {
             name: "mattermost",
             url: "https://teams.hexly.ru/",
             icon: "brand-slack",
-            icon_color: "#a9b665",
+            icon_color: "#84bea1",
           },
           {
             name: "LMS",
@@ -66,7 +66,7 @@ const default_config = {
             name: "github",
             url: "https://github.com/",
             icon: "brand-github",
-            icon_color: "#a9b665",
+            icon_color: "#84bea1",
           },
           {
             name: "replit",
@@ -96,7 +96,7 @@ const default_config = {
             name: "hack-the-box",
             url: "https://academy.hackthebox.com/dashboard",
             icon: "box",
-            icon_color: "#a9b665",
+            icon_color: "#84bea1",
           },
           {
             name: "reddit",
@@ -118,7 +118,7 @@ const default_config = {
             name: "PyDock",
             url: "https://pythonworld.ru/samouchitel-python",
             icon: "brand-python",
-            icon_color: "#a9b665",
+            icon_color: "#84bea1",
           },
           {
             name: "MDN JS",
@@ -193,7 +193,7 @@ const default_config = {
               name: "dns-shop",
               url: "https://www.dns-shop.ru",
               icon: "shopping-bag",
-              icon_color: "#a9b665",
+              icon_color: "#84bea1",
             },
             {
               name: "citilink",
@@ -222,7 +222,7 @@ const default_config = {
               name: "grafana",
               url: "https://prom-atkom.mine.nu:3443/grafana",
               icon: "chart-infographic",
-              icon_color: "#a9b665",
+              icon_color: "#84bea1",
             },
             {
               name: "alertmanager",
@@ -357,7 +357,7 @@ const default_config = {
               name: "lampa tv",
               url: "http://lampa.mx/",
               icon: "lighter",
-              icon_color: "#a9b665",
+              icon_color: "#84bea1",
             },
             {
               name: "plex",
@@ -392,7 +392,7 @@ const default_config = {
               name: "devian art",
               url: "https://www.deviantart.com",
               icon: "brand-deviantart",
-              icon_color: "#a9b665",
+              icon_color: "#84bea1",
             },
             {
               name: "wallhaven",

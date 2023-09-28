@@ -68,8 +68,8 @@ class Statusbar extends Component {
       #tabs ul li:not(:last-child) {
           width: 35px;
           text-align: center;
-          font: 700 13px 'Yu Gothic', serif;
-          color: rgba(212, 190, 152, 0.5);
+          font: 700 13px 'Roboto', serif;
+          color: rgba(81, 130, 139, 0.5);
           padding: 6px 0;
           transition: all .1s;
           cursor: pointer;
@@ -78,7 +78,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li:not(:last-child):hover {
-          background: #32302f;
+          background: #223441;
       }
 
       #tabs ul li:last-child {
@@ -91,7 +91,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li[active]:not(:last-child) {
-          color: #d4be98;
+          color: #C6CDD2;
           font-size: 13px;
           padding: 6px 0;
       }
@@ -129,7 +129,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li[active]:nth-child(7) ~ li:last-child {
-          --flavour: #a9b665;
+          --flavour: #84bea1;
       }
 
       #tabs ul li[active]:nth-child(8) ~ li:last-child {
@@ -208,8 +208,8 @@ class Statusbar extends Component {
 
       .fastlink {
           border: 0;
-          background: #32302f;
-          color: #a9b665;
+          background: #4B575F;
+          color: #84bea1;
           cursor: pointer;
           border-radius: 5px 15px 15px 5px;
       }

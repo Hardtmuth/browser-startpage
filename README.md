@@ -1,7 +1,7 @@
 <div align="center">
     <img src="/img/README-decorator.png" width=300/><br/>
     <a href="https://github.com/AllJavi/tartarus-startpage/stargazers">
-        <img src="https://img.shields.io/github/stars/AllJavi/tartarus-startpage?color=a9b665&style=for-the-badge&logo=starship">
+        <img src="https://img.shields.io/github/stars/AllJavi/tartarus-startpage?color=84bea1&style=for-the-badge&logo=starship">
     </a>
     <a href="https://github.com/AllJavi/tartarus-startpage/issues">
         <img src="https://img.shields.io/github/issues/AllJavi/tartarus-startpage?color=ea6962&style=for-the-badge&logo=codecov">
@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/github/forks/AllJavi/tartarus-startpage?color=7daea3&style=for-the-badge&logo=jfrog-bintray">
     </a>
     <a href="https://github.com/AllJavi/tartarus-startpage/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-orange.svg?color=d4be98&style=for-the-badge&logo=archlinux">
+        <img src="https://img.shields.io/badge/license-MIT-orange.svg?color=C6CDD2&style=for-the-badge&logo=archlinux">
     </a>
 </div>
 

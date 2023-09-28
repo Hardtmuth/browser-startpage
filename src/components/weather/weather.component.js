@@ -65,7 +65,7 @@ class Weather extends Component {
 
       .weather-temperature {
           font: 300 9pt 'Roboto', sans-serif;
-          color: #d4be98;
+          color: #C6CDD2;
           white-space: nowrap;
           display: flex;
           align-items: center;

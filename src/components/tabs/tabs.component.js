@@ -163,7 +163,7 @@ class Tabs extends Component {
       }
 
       .categories ul:nth-child(7) {
-          --flavour: #a9b665;
+          --flavour: #84bea1;
       }
 
       .categories ul:nth-child(8) {
@@ -209,7 +209,7 @@ class Tabs extends Component {
       }
 
       .categories ul .links a {
-          color: #d4be98;
+          color: #C6CDD2;
           text-decoration: none;
           font: 700 18px 'Roboto', sans-serif;
           transition: all .2s;
@@ -261,13 +261,13 @@ class Tabs extends Component {
       }
 
       .categories .links li:not(:last-child) {
-          box-shadow: 0 1px 0 rgba(212, 190, 152, .25);
+          box-shadow: 0 1px 0 rgba(75, 87, 95, .25);
           padding: 0 0 .5em 0;
           margin-bottom: 1.5em;
       }
 
       .categories .links li h1 {
-          color: #d4be98;
+          color: #C6CDD2;
 	        opacity: 0.5;
           font-size: 13px;
           margin-bottom: 1em;
@@ -279,7 +279,7 @@ class Tabs extends Component {
 
       .categories .link-icon {
           font-size: 27px;
-          color: #726f6f;
+          color: #4b575f;
       }
 
       .categories .link-icon + .link-name {
