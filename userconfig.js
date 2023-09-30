@@ -30,7 +30,7 @@ const default_config = {
   tabs: [
     {
       name: "studie",
-      background_url: "src/img/banners/cbg-6.gif",
+      background_url: "src/img/banners/studiy.gif",
       categories: [{
         name: "hexly",
         links: [
