@@ -137,7 +137,7 @@ const default_config = {
     },
     {
       name: "work",
-      background_url: "src/img/banners/cbg-8.gif",
+      background_url: "src/img/banners/cbg-7.gif",
       categories: [
         {
           name: "management",
@@ -254,7 +254,7 @@ const default_config = {
     },
     {
       name: "my own",
-      background_url: "src/img/banners/cbg-2.gif",
+      background_url: "src/img/banners/cbg-1.gif",
       categories: [
         {
           name: "productivity",
