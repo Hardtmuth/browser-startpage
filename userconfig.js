@@ -130,7 +130,7 @@ const default_config = {
             name: "PyDock",
             url: "https://pythonworld.ru/samouchitel-python",
             icon: "brand-python",
-            icon_color: "#84bea1",
+            icon_color: "#e78a4e",
           },
           {
             name: "MDN JS",
@@ -148,7 +148,13 @@ const default_config = {
             name: "Ya Doca",
             url: "https://doka.guide/",
             icon: "archive",
-            icon_color: "e78a4e",
+            icon_color: "#e78a4e",
+          },
+          {
+            name: "LanBook",
+            url: "https://e.lanbook.com/books",
+            icon: "books",
+            icon_color: "#7daea3",
           }
         ],
       }],
