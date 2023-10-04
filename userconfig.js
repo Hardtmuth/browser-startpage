@@ -104,6 +104,18 @@ const default_config = {
             icon: "brand-reddit",
             icon_color: "#ea6962",
           },
+          {
+            name: "code-pen",
+            url: "https://codepen.io/your-work/",
+            icon: "brand-codepen",
+            icon_color: "#6c8dbf",
+          },
+          {
+            name: "deepl",
+            url: "https://deepl.com/ru/translator",
+            icon: "language",
+            icon_color: "#84bea1",
+          },
         ],
       }, {
         name: "docs",
@@ -131,6 +143,12 @@ const default_config = {
             url: "https://docs.microsoft.com/ru-ru/powershell/scripting/overview?view=powershell-7.1",
             icon: "brand-powershell",
             icon_color: "#6c8dbf",
+          },
+          {
+            name: "Ya Doca",
+            url: "https://doka.guide/",
+            icon: "archive",
+            icon_color: "e78a4e",
           }
         ],
       }],
