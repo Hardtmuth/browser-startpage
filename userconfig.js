@@ -168,13 +168,13 @@ const default_config = {
           links: [
             {
               name: "1c ACC",
-              url: "http://10.0.1.20/buh",
+              url: "http://10.0.1.20/buh/ru_RU/",
               icon: "building-circus",
               icon_color: "#ea6962",
             },
             {
               name: "1c UNF",
-              url: "http://10.0.1.20/unf/",
+              url: "http://10.0.1.20/unf/ru_RU/",
               icon: "building-circus",
               icon_color: "#7daea3",
             },
