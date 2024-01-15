@@ -35,6 +35,12 @@ const default_config = {
         name: "hexly",
         links: [
           {
+            name: "schedule",
+            url: "https://schedule.mstimetables.ru/publications/173aba53-0f37-46e7-b14c-91b2d3ef1af7#/groups/21/lessons",
+            icon: "calendar",
+            icon_color: "#6c8dbf",
+          },
+          {
             name: "mattermost",
             url: "https://teams.hexly.ru/",
             icon: "brand-slack",
