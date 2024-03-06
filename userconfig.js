@@ -390,8 +390,8 @@ const default_config = {
               icon_color: "#84bea1",
             },
             {
-              name: "plex",
-              url: "http://10.37.40.18:32400/web",
+              name: "okko",
+              url: "https://okko.tv/",
               icon: "topology-complex",
               icon_color: "#d3869b",
             },
