@@ -216,7 +216,7 @@ class Tabs extends Component {
           display: inline-flex;
           align-items: center;
           padding: .4em .7em;
-          background: #065a6e;
+          background: #004a5a;
           box-shadow: 0 4px rgba(4, 59, 72, 0.5), 0 5px 10px rgb(0 0 0 / 20%);
           border-radius: 2px;
           margin-bottom: .7em;
