@@ -216,8 +216,8 @@ class Tabs extends Component {
           display: inline-flex;
           align-items: center;
           padding: .4em .7em;
-          background: #24333d;
-          box-shadow: 0 4px rgba(50, 48, 47, 0.5), 0 5px 10px rgb(0 0 0 / 20%);
+          background: #02212b;
+          box-shadow: 0 4px rgba(4, 59, 72, 0.5), 0 5px 10px rgb(0 0 0 / 20%);
           border-radius: 2px;
           margin-bottom: .7em;
       }
@@ -261,7 +261,7 @@ class Tabs extends Component {
       }
 
       .categories .links li:not(:last-child) {
-          box-shadow: 0 1px 0 rgba(75, 87, 95, .25);
+          box-shadow: 0 1px 0 rgba(126, 188, 188, .25);
           padding: 0 0 .5em 0;
           margin-bottom: 1.5em;
       }
@@ -279,7 +279,7 @@ class Tabs extends Component {
 
       .categories .link-icon {
           font-size: 27px;
-          color: #4b575f;
+          color: #0b6d88;
       }
 
       .categories .link-icon + .link-name {
