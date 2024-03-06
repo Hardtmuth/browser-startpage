@@ -21,7 +21,7 @@ class ConfigTab extends Component {
           justify-content: center;
           width: calc(100% - 2px);
           height: 100%;
-          background: rgb(24 24 29 / 80%);
+          background: rgb(10 80 939 / 80%);
           z-index: 99;
           visibility: hidden;
           top: -100%;
