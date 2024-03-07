@@ -78,7 +78,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li:not(:last-child):hover {
-          background: #043b48;
+          background: #223441;
       }
 
       #tabs ul li:last-child {

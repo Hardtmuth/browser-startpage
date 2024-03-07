@@ -61,7 +61,7 @@ class ConfigTab extends Component {
 
       #config textarea::selection {
           background: #b8785b;
-          color: #043b48;
+          color: #223441;
       }
 
       #config textarea::-webkit-scrollbar {
