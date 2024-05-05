@@ -319,6 +319,30 @@ const default_config = {
               icon: "brand-gmail",
               icon_color: "#ea6962",
             },
+            {
+              name: "home-nas",
+              url: "https://ebash.homeip.net:7180",
+              icon: "cloud-data-connection",
+              icon_color: "#6c8dbf",
+            },
+            {
+              name: "cloud-drive",
+              url: "https://ebash.homeip.net:7180/?launchApp=SYNO.SDS.Drive.Application#MyDrive",
+              icon: "server-2",
+              icon_color: "#ea6962",
+            },
+            {
+              name: "gitea",
+              url: "https://ebash.homeip.net:7181/",
+              icon: "git-pull-request",
+              icon_color: "#7daea3",
+            },
+            {
+              name: "notion",
+              url: "https://www.notion.so/hardtmuth/2f132b50819e4b328f157234014365cb?v=752bbac5f16a44bebb3085a30b139b3d",
+              icon: "brand-notion",
+              icon_color: "#d3869b",
+            },
           ],
         },
         {
@@ -390,8 +414,8 @@ const default_config = {
               icon_color: "#84bea1",
             },
             {
-              name: "plex",
-              url: "http://10.37.40.18:32400/web",
+              name: "okko",
+              url: "https://okko.tv/",
               icon: "topology-complex",
               icon_color: "#d3869b",
             },
@@ -441,6 +465,12 @@ const default_config = {
               url: "https://www.artstation.com/",
               icon: "gas-station",
               icon_color: "#e78a4e",
+            },
+            {
+              name: "figma",
+              url: "https://www.figma.com/files/drafts?fuid=723421535535792613",
+              icon: "brand-figma",
+              icon_color: "#6c8dbf",
             }
           ]
         }
