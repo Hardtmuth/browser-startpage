@@ -237,32 +237,32 @@ const default_config = {
           name: "system",
           links: [
             {
-              name: "synology",
+              name: "office-nas",
               url: "https://10.0.1.30:5001/",
               icon: "network",
               icon_color: "#7daea3",
             },
             {
               name: "prometheus",
-              url: "https://prom-atkom.mine.nu:3443",
+              url: "https://prom-atkom.mine.nu",
               icon: "brand-firebase",
               icon_color: "#ea6962",
             },
             {
               name: "grafana",
-              url: "https://prom-atkom.mine.nu:3443/grafana",
+              url: "https://prom-atkom.mine.nu/grafana",
               icon: "chart-infographic",
               icon_color: "#84bea1",
             },
             {
               name: "alertmanager",
-              url: "https://prom-atkom.mine.nu:3443/alertmanager/",
+              url: "https://prom-atkom.mine.nu/alertmanager/",
               icon: "progress-alert",
               icon_color: "#d3869b",
             },
             {
               name: "oxidized",
-              url: "https://prom-atkom.mine.nu:3443/oxi",
+              url: "https://prom-atkom.mine.nu/oxi",
               icon: "brand-git",
               icon_color: "#6c8dbf",
             },
