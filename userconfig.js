@@ -496,6 +496,35 @@ const default_config = {
               icon_color: "#6c8dbf",
             }
           ]
+        },
+        {
+          name: "tools",
+          links: [
+            {
+              name: "fontawesome",
+              url: "https://fontawesome.com/icons",
+              icon: "text-resize",
+              icon_color: "#6c8dbf",
+            },
+            {
+              name: "tablericons",
+              url: "https://tablericons.com/",
+              icon: "brand-tabler",
+              icon_color: "#e78a4e",
+            },
+            {
+              name: "bootstrap",
+              url: "https://bootstrap-4.ru/",
+              icon: "brand-bootstrap",
+              icon_color: "#84bea1",
+            },
+            {
+              name: "nerdfonts",
+              url: "https://www.nerdfonts.com/#home",
+              icon: "mood-nerd",
+              icon_color: "#ea6962",
+            }
+          ]
         }
       ],
     },
