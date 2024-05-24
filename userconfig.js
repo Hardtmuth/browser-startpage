@@ -465,6 +465,29 @@ const default_config = {
               url: "https://www.artstation.com/",
               icon: "gas-station",
               icon_color: "#e78a4e",
+            }
+          ]
+        },
+        {
+          name: "creative",
+          links: [
+            {
+              name: "lucid",
+              url: "https://lucid.app/",
+              icon: "chalkboard",
+              icon_color: "#e78a4e",
+            },
+            {
+              name: "draw",
+              url: "https://app.diagrams.net/",
+              icon: "chart-grid-dots",
+              icon_color: "#ea6962",
+            },
+            {
+              name: "miro",
+              url: "https://miro.com/app/dashboard/",
+              icon: "dice",
+              icon_color: "#84bea1",
             },
             {
               name: "figma",
