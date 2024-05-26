@@ -230,6 +230,18 @@ const default_config = {
               url: "https://www.citilink.ru/",
               icon: "building-pavilion",
               icon_color: "#ea6962",
+            },
+            {
+              name: "ya.market",
+              url: "https://market.yandex.ru",
+              icon: "paper-bag",
+              icon_color: "#e78a4e",
+            },
+            {
+              name: "ozon",
+              url: "https://www.ozon.ru/?__rr=1",
+              icon: "package",
+              icon_color: "#6c8dbf",
             }
           ],
         },
