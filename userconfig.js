@@ -355,6 +355,12 @@ const default_config = {
               icon: "brand-notion",
               icon_color: "#d3869b",
             },
+            {
+              name: "monkeytype",
+              url: "https://monkeytype.com",
+              icon: "keyboard",
+              icon_color: "#e78a4e",
+            },
           ],
         },
         {
@@ -535,6 +541,12 @@ const default_config = {
               url: "https://www.nerdfonts.com/#home",
               icon: "mood-nerd",
               icon_color: "#ea6962",
+            },
+            {
+              name: "tailwind",
+              url: "https://flowbite.com",
+              icon: "brand-tailwind",
+              icon_color: "#6c8dbf",
             }
           ]
         }
