@@ -64,6 +64,12 @@ const default_config = {
             icon: "campfire",
             icon_color: "#ea6962",
           },
+          {
+            name: "odin",
+            url: "https://www.odin.study/ru/",
+            icon: "bell-school",
+            icon_color: "#d3869b",
+          },
         ],
       }, {
         name: "tools",
@@ -207,6 +213,12 @@ const default_config = {
               url: "https://at-kom.intradesk.ru/task/list",
               icon: "help-circle",
               icon_color: "#d3869b",
+            },
+            {
+              name: "weeek",
+              url: "https://app.weeek.net/",
+              icon: "filter-dollar",
+              icon_color: "#6c8dbf",
             }
           ],
         },
