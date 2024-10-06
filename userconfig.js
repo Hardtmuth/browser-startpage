@@ -414,6 +414,12 @@ const default_config = {
               icon: "gender-female",
               icon_color: "#e78a4e",
             },
+            {
+              name: "dnevnik",
+              url: "https://edu.gounn.ru/journal-app/u.8173",
+              icon: "notebook",
+              icon_color: "#6c8dbf",
+            },
           ],
         },
         {
