@@ -70,6 +70,18 @@ const default_config = {
             icon: "bell-school",
             icon_color: "#d3869b",
           },
+          {
+            name: "codeclimate",
+            url: "https://codeclimate.com/oss/dashboard",
+            icon: "haze",
+            icon_color: "#e78a4e",
+          },
+          {
+            name: "vercel",
+            url: "https://vercel.com/hardtmuths-projects",
+            icon: "square-rounded-letter-v",
+            icon_color: "#6c8dbf",
+          },
         ],
       }, {
         name: "tools",
