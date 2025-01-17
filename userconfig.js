@@ -191,6 +191,12 @@ const default_config = {
           name: "management",
           links: [
             {
+              name: "1c NEW",
+              url: "https://msk1.1cfresh.com/a/ea/3208321/ru/",
+              icon: "building-circus",
+              icon_color: "#e78a4e",
+            },
+            {
               name: "1c ACC",
               url: "http://10.0.1.20/buh/ru_RU/",
               icon: "building-circus",
