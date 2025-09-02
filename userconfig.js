@@ -25,7 +25,7 @@ const default_config = {
   },
   disabled: [],
   localIcons: false,
-  fastlink: "https://chat.openai.com/",
+  fastlink: "https://alice.yandex.ru/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -36,39 +36,21 @@ const default_config = {
         links: [
           {
             name: "schedule",
-            url: "https://schedule.mstimetables.ru/publications/173aba53-0f37-46e7-b14c-91b2d3ef1af7#/groups/21/lessons",
+            url: "https://schedule.mstimetables.ru/publications/cdb2a14c-a891-4f9f-b56c-7e8eb559c766#/groups/47/lessons",
             icon: "calendar",
             icon_color: "#6c8dbf",
           },
           {
-            name: "mattermost",
-            url: "https://teams.hexly.ru/",
-            icon: "brand-slack",
+            name: "moodle",
+            url: "https://mdl.hexly.ru/",
+            icon: "bell-school",
             icon_color: "#84bea1",
-          },
-          {
-            name: "LMS",
-            url: "https://lms.hexly.ru/",
-            icon: "book",
-            icon_color: "#7daea3",
-          },
-          {
-            name: "hexly - notion",
-            url: "https://hexly.notion.site/8185f56ad42848848f9ef2fa92fd07e0/",
-            icon: "brand-notion",
-            icon_color: "#e78a4e",
           },
           {
             name: "hexlet",
             url: "https://ru.hexlet.io/my",
             icon: "campfire",
             icon_color: "#ea6962",
-          },
-          {
-            name: "odin",
-            url: "https://www.odin.study/ru/",
-            icon: "bell-school",
-            icon_color: "#d3869b",
           },
           {
             name: "codeclimate",
@@ -111,18 +93,6 @@ const default_config = {
             icon_color: "#e78a4e",
           },
           {
-            name: "stepik",
-            url: "https://stepik.org/",
-            icon: "book-2",
-            icon_color: "#7daea3",
-          },
-          {
-            name: "hack-the-box",
-            url: "https://academy.hackthebox.com/dashboard",
-            icon: "box",
-            icon_color: "#84bea1",
-          },
-          {
             name: "reddit",
             url: "https://www.reddit.com",
             icon: "brand-reddit",
@@ -133,12 +103,6 @@ const default_config = {
             url: "https://codepen.io/your-work/",
             icon: "brand-codepen",
             icon_color: "#6c8dbf",
-          },
-          {
-            name: "deepl",
-            url: "https://deepl.com/ru/translator",
-            icon: "language",
-            icon_color: "#84bea1",
           },
         ],
       }, {
@@ -191,22 +155,10 @@ const default_config = {
           name: "management",
           links: [
             {
-              name: "1c NEW",
+              name: "1c",
               url: "https://msk1.1cfresh.com/a/ea/3208321/ru/",
               icon: "building-circus",
               icon_color: "#e78a4e",
-            },
-            {
-              name: "1c ACC",
-              url: "http://10.0.1.20/buh/ru_RU/",
-              icon: "building-circus",
-              icon_color: "#ea6962",
-            },
-            {
-              name: "1c UNF",
-              url: "http://10.0.1.20/unf/ru_RU/",
-              icon: "building-circus",
-              icon_color: "#7daea3",
             },
             {
               name: "kontur",
@@ -226,18 +178,6 @@ const default_config = {
               icon: "brand-intercom",
               icon_color: "#ea6962",
             },
-            {
-              name: "intradesk",
-              url: "https://at-kom.intradesk.ru/task/list",
-              icon: "help-circle",
-              icon_color: "#d3869b",
-            },
-            {
-              name: "weeek",
-              url: "https://app.weeek.net/",
-              icon: "filter-dollar",
-              icon_color: "#6c8dbf",
-            }
           ],
         },
         {
@@ -314,12 +254,6 @@ const default_config = {
               icon: "server",
               icon_color: "#7daea3",
             },
-            {
-              name: "qnap",
-              url: "https://10.37.40.28",
-              icon: "server-2",
-              icon_color: "#ea6962",
-            }
           ],
         },
       ],
@@ -583,11 +517,105 @@ const default_config = {
               url: "https://flowbite.com",
               icon: "brand-tailwind",
               icon_color: "#6c8dbf",
-            }
+            },
+            {
+              name: "mantine",
+              url: "https://ui.mantine.dev/#main",
+              icon: "brand-mantine",
+              icon_color: "#7daea3",
+            },
           ]
         }
       ],
     },
+    {
+      name: "archive",
+      background_url: "src/img/banners/archive.gif",
+      categories: [
+        {
+          name: "study",
+          links: [
+            {
+              name: "mattermost",
+              url: "https://teams.hexly.ru/",
+              icon: "brand-slack",
+              icon_color: "#84bea1",
+            },
+            {
+              name: "LMS",
+              url: "https://lms.hexly.ru/",
+              icon: "book",
+              icon_color: "#7daea3",
+            },
+            {
+              name: "hexly - notion",
+              url: "https://hexly.notion.site/8185f56ad42848848f9ef2fa92fd07e0/",
+              icon: "brand-notion",
+              icon_color: "#e78a4e",
+            },
+            {
+              name: "odin",
+              url: "https://www.odin.study/ru/",
+              icon: "bell-school",
+              icon_color: "#d3869b",
+            },
+            {
+              name: "stepik",
+              url: "https://stepik.org/",
+              icon: "book-2",
+              icon_color: "#7daea3",
+            },
+            {
+              name: "hack-the-box",
+              url: "https://academy.hackthebox.com/dashboard",
+              icon: "box",
+              icon_color: "#84bea1",
+            },
+            {
+              name: "deepl",
+              url: "https://deepl.com/ru/translator",
+              icon: "language",
+              icon_color: "#84bea1",
+            },
+          ]
+        },
+        {
+          name: "work",
+          links: [
+            {
+              name: "1c ACC",
+              url: "http://10.0.1.20/buh/ru_RU/",
+              icon: "building-circus",
+              icon_color: "#ea6962",
+            },
+            {
+              name: "1c UNF",
+              url: "http://10.0.1.20/unf/ru_RU/",
+              icon: "building-circus",
+              icon_color: "#7daea3",
+            },
+            {
+              name: "intradesk",
+              url: "https://at-kom.intradesk.ru/task/list",
+              icon: "help-circle",
+              icon_color: "#d3869b",
+            },
+            {
+              name: "weeek",
+              url: "https://app.weeek.net/",
+              icon: "filter-dollar",
+              icon_color: "#6c8dbf",
+            },
+            {
+              name: "qnap",
+              url: "https://10.37.40.28",
+              icon: "server-2",
+              icon_color: "#ea6962",
+            }
+          ]
+        }
+      ]
+    }
   ],
 };
 
