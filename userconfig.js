@@ -29,7 +29,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "studie",
+      name: "study",
       background_url: "src/img/banners/study.gif",
       categories: [{
         name: "hexly",
@@ -103,6 +103,12 @@ const default_config = {
             url: "https://codepen.io/your-work/",
             icon: "brand-codepen",
             icon_color: "#6c8dbf",
+          },
+          {
+            name: "translate",
+            url: "https://translate.google.com/?sl=en&tl=ru&op=translate",
+            icon: "language",
+            icon_color: "#84bea1",
           },
         ],
       }, {
