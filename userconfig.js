@@ -226,7 +226,7 @@ const default_config = {
           links: [
             {
               name: "office-nas",
-              url: "https://10.0.1.30:5001/",
+              url: "https://10.0.1.29:5001/",
               icon: "network",
               icon_color: "#7daea3",
             },
@@ -320,10 +320,10 @@ const default_config = {
               icon_color: "#7daea3",
             },
             {
-              name: "notion",
-              url: "https://www.notion.so/hardtmuth/2f132b50819e4b328f157234014365cb?v=752bbac5f16a44bebb3085a30b139b3d",
-              icon: "brand-notion",
-              icon_color: "#d3869b",
+              name: "jenkins",
+              url: "https://ebash.homeip.net:7681",
+              icon: "brand-codesandbox",
+              icon_color: "#6c8dbf",
             },
             {
               name: "monkeytype",
@@ -582,6 +582,12 @@ const default_config = {
               url: "https://deepl.com/ru/translator",
               icon: "language",
               icon_color: "#84bea1",
+            },
+            {
+              name: "notion",
+              url: "https://www.notion.so/hardtmuth/2f132b50819e4b328f157234014365cb?v=752bbac5f16a44bebb3085a30b139b3d",
+              icon: "brand-notion",
+              icon_color: "#d3869b",
             },
           ]
         },
